@@ -1,6 +1,6 @@
 # CodeChef-Solutions-Python-
 
-So basically I will upload 50+ codechef beginner and easy tier solutions here solved by me in Python 3.6 at time of uploading ..
+So basically I will upload 50+ codechef beginner and easy/medium (hard is out of league :p) tier solutions here solved by me in Python 3.6 at time of uploading ..
 
 
 Drop me a PR if you would like to contribute ! 
